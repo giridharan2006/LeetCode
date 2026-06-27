@@ -7,6 +7,7 @@ This folder contains my solutions to Medium-level LeetCode problems.
 - Stack
 - Queue
 - Monotonic Stack
+- Heap
 
 *(More topics will be added as I progress.)*
 
