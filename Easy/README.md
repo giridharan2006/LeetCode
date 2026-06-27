@@ -17,5 +17,6 @@ Build strong problem-solving fundamentals by mastering basic data structures and
 - ✅ Stack
 - ✅ Queue
 - ✅ Monotonic Stack
+- ✅ Heap
 
 More problems will be added regularly.
