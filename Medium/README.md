@@ -8,6 +8,9 @@ This folder contains my solutions to Medium-level LeetCode problems.
 - Queue
 - Monotonic Stack
 - Heap
+- String
+- String Matching
+- Linked List
 
 *(More topics will be added as I progress.)*
 
