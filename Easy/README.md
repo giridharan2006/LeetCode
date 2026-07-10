@@ -5,6 +5,10 @@ This folder contains my solutions to Easy-level LeetCode problems.
 - Stack
 - Queue
 - Monotonic Stack
+- Heap 
+- String
+- String matching
+- Linked List
   
 ## Languages
 - C++
@@ -18,5 +22,8 @@ Build strong problem-solving fundamentals by mastering basic data structures and
 - ✅ Queue
 - ✅ Monotonic Stack
 - ✅ Heap
+- ✅ String
+- ✅ String matching
+- ✅ Linked List
 
 More problems will be added regularly.
